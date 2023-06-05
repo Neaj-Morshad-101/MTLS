@@ -1,0 +1,2 @@
+These are the files that will be under "certs/" directory
+ca.crt ca.key client.crt  client.csr client.key server.crt  server.csr  server.key
